@@ -2090,3 +2090,100 @@ section.lazy-placeholder:after {
 .cid-sazRb3S2qP P {
   color: #ffffff;
 }
+.cid-sjaXj3CKze {
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-sjaXj3CKze .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sjaXj3CKze .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sjaXj3CKze .mbr-text {
+    text-align: center;
+  }
+}
+.cid-sjaXj3CKze .mbr-text,
+.cid-sjaXj3CKze .mbr-section-btn {
+  color: #10004e;
+}
+.cid-sjaXj3CKze H1 {
+  color: #370250;
+}
+.cid-sjaXkmDa4D {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/diapositiva4-2.png");
+}
+.cid-sjaXkmDa4D h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-sjaXkmDa4D p {
+  color: #767676;
+  margin: 0;
+}
+.cid-sjaXkmDa4D .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-sjaXkmDa4D .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-sjaXkmDa4D .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-sjaXkmDa4D .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-sjaXkmDa4D .wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.cid-sjaXkmDa4D .border_wrapper {
+  border-left: 1px solid #370250;
+  padding-left: 2rem;
+}
+@media (max-width: 991px) {
+  .cid-sjaXkmDa4D .border_wrapper {
+    border-left: none;
+    padding-left: 0;
+  }
+  .cid-sjaXkmDa4D .mbr-section-btn a {
+    padding: 1rem 2rem;
+  }
+  .cid-sjaXkmDa4D .mbr-figure {
+    padding-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sjaXkmDa4D .wrapper {
+    align-items: center;
+    text-align: center;
+  }
+  .cid-sjaXkmDa4D .col-left h4 {
+    padding-top: 1rem;
+  }
+  .cid-sjaXkmDa4D p.col-right {
+    padding-top: 1rem;
+  }
+}
+.cid-sjaXkmDa4D .col-right {
+  color: #149dcc;
+}
+.cid-sjaXkmDa4D .card-title {
+  color: #149dcc;
+}
